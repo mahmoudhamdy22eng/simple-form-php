@@ -1,0 +1,15 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.address, .country, .gender, .skills{
+    margin-right: 20px;
+}
+.female, .reset{
+    margin-left: 20px;
+}
+.skills1{
+    margin-left: 85px;
+}
